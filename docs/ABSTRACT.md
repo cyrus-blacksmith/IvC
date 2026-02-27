@@ -1,4 +1,4 @@
-Abstract: IvC Theoretical Framework
+# Abstract: IvC Theoretical Framework
 
 For over a century, biology has explained life primarily through chemistry, reducing living
 systems to molecules and pathways. While this view enabled powerful advances, it
