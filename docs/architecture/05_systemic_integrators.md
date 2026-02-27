@@ -1,12 +1,12 @@
-# 05. Systemic Integrators: Organismal Coordination (Section 2.5)
+# 05. Systemic Integrators (Section 2.5)
 
-Systemic integrators are higher-order rhythms that coordinate multi-organ activity, ensuring that ignition and recovery occur in synchrony across scales. They translate the rhythmic language of cellular hubs into whole-body order.
+While hubs and regulators organize resonance within cells, coherence at the organismal level depends on systemic integrators, networks that coordinate multi-organ rhythms across scales. These integrators couple local oscillators to global cycles, ensuring that ignition and recovery occur in synchrony rather than in isolation. They translate the rhythmic language of cellular hubs into whole-body order.
 
 ### 2.5.1 Cardiorespiratory Axis
-The heart and lungs act as the primary mechanical and rhythmic pumps of the system. They provide the fundamental carrier wave that entrains lower-frequency biological processes through vagal and mechanical coupling. This produced nested oscillations that synchronize neural, metabolic, and vascular activity across the organism.
+The cardiorespiratory axis links heartbeat and breathing through vagal and mechanical coupling, producing nested oscillations that synchronize neural, metabolic, and vascular activity (Eckberg 2003; Schäfer et al., 1999). Heartbeat-linked pulsations align with cerebrospinal and vascular oscillations, suggesting that the cardiovascular rhythm acts as a systemic metronome coupling clearance dynamics to neural activity (Zhang et al., 2025).
 
-### 2.5.2 Neuro-Glymphatic Axis
-This system manages fluid flux and global coordination, coupling cerebrospinal flow, vascular pulsations, and slow-wave sleep. The rhythmic pulsing of the glymphatic system during sleep is essential for maintaining the clarity of the biophotonic and bioelectric signaling channels, managing the fluidic dynamics that act as shared substrates for distinct hubs.
+### 2.5.2 Neuro-Glymphatic System
+The neuro-glymphatic system couples cerebrospinal flow, vascular pulsations, and slow-wave sleep, distributing coherence between brain and body (Iliff et al., 2012; Fultz et al., 2019). Fluid flows within these networks are entrained by cardiac pulsations, respiratory rhythms, and circadian timing (Mestre et al., 2020). Focused ultrasound and vagus nerve stimulation can directly modulate CSF-interstitial fluid exchange, demonstrating that macro-substrates can be experimentally entrained by acoustic and neural inputs (Yuan et al., 2023; Lin et al., 2024).
 
 ### 2.5.3 Circadian & Hormonal Networks
-These networks integrate environmental cues with tissue-specific clocks, providing the master timing regulation for the system. They define the temporal windows in which metabolic coherence and the Topological Shield are reinforced or repaired, ensuring that the entire framework is synchronized with environmental patterns.
+Circadian and hormonal networks integrate environmental cues with tissue-specific clocks, providing long-period modulation that stabilizes ignition thresholds over daily cycles (Bass & Laposky 2016; Takahashi 2017). These networks define the temporal windows in which metabolic coherence and the Topological Shield are reinforced or repaired, ensuring that the entire framework is synchronized with environmental patterns.
