@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this framework, please cite the preprint below."
+authors:
+  - family-names: Blacksmith
+    given-names: Cyrus
+title: "Ignition via Convergence (IvC): A Multi-Modal Framework for the Architecture of Life"
+doi: 10.5281/zenodo.18787151
+date-released: 2026-02-26
+url: "https://github.com/cyrus-blacksmith/ivc"
