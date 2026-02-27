@@ -13,15 +13,16 @@ Life is not a static property of matter but a dynamic phase of coherence. We pro
 
 ---
 
-## 📊 Proof of Concept (Section 8)
+## 🏗️ Framework Documentation
 
-This project includes a pilot validation using polarization-resolved SHG imaging, revealing a statistically significant loss of anisotropic order in invasive carcinoma—consistent with the collapse of the coherent state.
+* [**Core Architecture (Section 2)**](docs/architecture/README.md) — The 4+6 model, modalities, hubs, and systemic integrators.
+* [**Community Research Roadmap**](docs/ROADMAP.md) — The 36-paper trajectory and Tier 1–3 research program.
 
 ---
 
-## 🚀 Community Research Roadmap
+## 📊 Proof of Concept (Section 8)
 
-We have provided detailed outlines for **36 future papers** (IvC-1 through IvC-36) intended as a guide for the scientific community to develop if this framework is validated.
+This project includes a pilot validation using polarization-resolved SHG imaging, revealing a statistically significant loss of anisotropic order in invasive carcinoma—consistent with the collapse of the coherent state.
 
 ---
 
@@ -29,5 +30,4 @@ We have provided detailed outlines for **36 future papers** (IvC-1 through IvC-3
 
 * **Zenodo (Full PDF):** [10.5281/zenodo.18787151](https://doi.org/10.5281/zenodo.18787151)
 * **Status Update:** Currently under manual human review at arXiv (physics.bio-ph).
-
-[**A Personal Note**](docs/AUTHORS_NOTES.md) — On stewardship, ethics, and the role of AI in IvC.
+* **Author's Note:** [A Personal Note on Stewardship and AI](docs/AUTHORS_NOTES.md)
