@@ -1,16 +1,12 @@
-# 04. The Substrates: Active Media (Section 2.3.2)
+# 04. The Substrates: Active Media (Section 2.4)
 
-Biological oscillators do not exist in a vacuum; they are embedded in aqueous and fibrous substrates that determine the "Substrate Impedance" ($k$) of the system.
+Substrates are the active media that transmit oscillations and energy flows, mediating coupling across scales from molecular interactions to organ-level coordination. The state of these substrates determines the impedance of the entire IvC system.
 
-### 2.3.2.1 Water (The Fourth Phase)
-IvC adopts the "Exclusion Zone" (EZ) or "Fourth Phase" model of water as the primary conductive medium.
-* **Protonic Conductivity**: Nanoconfined water at biological interfaces (membranes, cytoskeleton) exhibits high protonic conductivity, facilitating near-instantaneous signal transfer.
-* **Ordered Water**: This ordered state lowers the impedance ($k$), allowing bioacoustic and bioelectric signals to propagate with minimal loss.
+### 2.4.1 Water (The Fourth Phase)
+Water is the central carrier of resonance in the IvC framework. Its hydrogen-bond network supports proton conduction and vibrational coherence. IvC adopts the model of "Exclusion Zone" (EZ) or "Fourth Phase" water as the primary conductive medium. Nanoconfined water at biological interfaces exhibits high protonic conductivity, facilitating near-instantaneous signal transfer through "proton wires" along hydrogen-bonded chains. GHZ phonons in lipid bilayers couple directly to these hydration shells, while hydration layers around DNA act as dynamic oscillators that modulate biomolecular vibrations. This ordered phase minimizes substrate impedance (k), allowing bioacoustic and bioelectric signals to propagate with minimal loss.
 
-### 2.3.2.2 The Intracellular Matrix
-The cytoplasm is an actively crowded medium. 
-* **IvC Role**: Viscosity and molecular crowding tune the resonant frequencies of the hubs. The transition from a "Sol" to a "Gel" state represents a shift in the system's ability to maintain phase-locking.
+### 2.4.2 Intracellular Substrates (The Cytoplasm)
+The cytoplasm is an actively crowded and structured medium where viscosity and molecular crowding tune the resonant frequencies of the hubs. This environment allows signals to propagate with spatial coherence across the cell, reinforced by the cytoskeleton which transmits vibrations. The transition between "Sol" and "Gel" states determines the system's phase-locking capacity. Metabolic cycles, such as glycolytic oscillations and ATP fluxes, entrain vesicle release and ion-channel activity, binding mechanical, electrical, photonic, and chemical signals into shared timing.
 
-### 2.3.2.3 The Extracellular Matrix (ECM)
-The ECM is the structural "broadcasting" medium of the tissue.
-* **IvC Role**: Collagen fibrils act as bioacoustic waveguides and piezoelectric transducers, enabling the coherence of an individual cell to extend to its neighbors.
+### 2.4.3 Extracellular Matrix (ECM)
+The ECM is the structural broadcasting medium of the tissue. Collagen fibers form a piezoelectric lattice that transduces mechanical stress into bioelectric fields, while collagen fibrils display ordered vibrational modes capable of sustaining coherent phonons. Hydrated ECM gels support long-range proton conduction through water channels, while circadian regulation of ECM proteins suggests temporal patterning of resonance properties at the tissue scale. The ECM translates local oscillations into systemic coherence across organs.
