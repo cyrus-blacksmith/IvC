@@ -37,9 +37,6 @@ The family of phase transitions described throughout this paper can be compactly
 
 $$I = \Psi(kLFH)$$
 
-[span_0](start_span)where **L** is lattice density, **F** is convergent flux, **H** is hub mass, **k** is substrate impedance, and **$\Psi$** denotes the topologically protected coherent state, the 'Topological Shield', that emerges when the system crosses the ignition threshold.[span_0](end_span)
+where **L** is lattice density, **F** is convergent flux, **H** is hub mass, **k** is substrate impedance, and **$\Psi$** denotes the topologically protected coherent state, the 'Topological Shield', that emerges when the system crosses the ignition threshold.
 
-
-By unifying physics and biology, IvC reveals a hidden, self-organized order within living systems.
-IvC thus reframes the guiding question of biology from "Which molecule does X?" to "What
-coherent rhythm defines X?"
+By unifying physics and biology, IvC reveals a hidden, self-organized order within living systems. IvC thus reframes the guiding question of biology from "Which molecule does X?" to "What coherent rhythm defines X?"
