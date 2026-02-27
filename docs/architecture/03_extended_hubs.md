@@ -1,23 +1,15 @@
-# 03. Extended Hubs: Specialized Structures (Section 2.3.1)
+# 03. Extended Hubs: Specialized Structures (Section 2.3)
 
-While the 4+6 core constitutes the universal architecture of IvC, specialized biological structures act as "Extended Hubs," optimizing specific modalities for niche physiological roles.
+Extended hubs reveal how specialized biological structures and composite systems weave multiple modalities into a coherent state. These hubs must meet strict promotion criteria, including demonstrable cross-modal integration, systemic relevance, and reproducible rhythmic signatures.
 
-### 2.3.1.1 Primary Cilia (The Multimodal Antenna)
-The primary cilium is the framework's premier falsifiable entry point. 
-* **Mechanisms**: Its axonemal structure (9+0 microtubule arrangement) is optimized for bioacoustic sensing (mechanical deflection) and bioelectric transduction (polycystin-mediated ion flux). 
-* **IvC Role**: It acts as a high-gain antenna that integrates extracellular fluid flux with intracellular signaling, phase-locking the cell to its local microenvironment.
+### 2.3.1.1 Primary Cilia (Antennas of Resonance)
+The primary cilium is the framework's premier falsifiable entry point, serving as a multi-modal resonant hub. Its axonemal structure, specifically the 9+0 microtubule arrangement, is optimized for bioacoustic sensing through mechanical deflection and bioelectric transduction via polycystin-mediated ion flux. Piezoelectric-like properties of ciliary membranes allow mechanical strain to transduce into bioelectric signals, while embedded ion channels enable electrical tuning. Resonance is evident as ciliary deflection entrains intracellular calcium oscillations, and electrical stimulation has been shown to modulate ciliary beating. Circadian genes are enriched at the ciliary base, linking cilia to systemic temporal regulation and the intersection of acoustic, electric, and biochemical modalities.
 
-### 2.3.1.2 Myelin Sheaths (Electromagnetic Waveguides)
-Myelin is reframed not merely as an insulator but as a biological waveguide.
-* **Mechanisms**: The lamellar structure of the myelin sheath supports the propagation of evanescent electromagnetic waves.
-* **IvC Role**: It enables high-speed biophotonic and bioelectric coordination across long distances, ensuring systemic coherence between distant neural nodes.
+### 2.3.1.2 Olfaction (Specialized Hub of Sleep and Memory)
+The olfactory system is an archetypal multi-modal hub that combines biochemical receptor activation, mechanical respiration phases, and electrical oscillatory entrainment. Recent findings demonstrate the profound impact of this hub on systemic coherence: controlled nightly odor exposure in older adults resulted in a 226% enhancement in memory performance and increased the structural integrity of the uncinate fasciculus. Respiration itself entrains limbic rhythms, providing a mechanical metronome that resets timing windows with every breath. Cueing odors during non-REM sleep further boosts recall by phase-locking hippocampal oscillations to cortical slow waves, demonstrating the hub's role in global brain state synchronization.
 
-### 2.3.1.3 Red Blood Cells (Acoustic Resonators)
-RBCs are viewed as mechanical-acoustic oscillators within the circulatory system.
-* **Mechanisms**: Their biconcave geometry and membrane elasticity allow them to function as resonators for pressure waves.
-* **IvC Role**: They facilitate bioacoustic coupling in the micro-vasculature, synchronizing oxygen delivery with the rhythmic requirements of the surrounding tissue.
+### 2.3.1.3 Myelin Sheaths (Conduction and Resonance)
+Myelin sheaths create a resonant environment where layered lipid membranes act as dielectric cavities that tune axonal transmission and amplify specific oscillatory bands. Structural variations in myelin thickness modulate conduction velocity, generating frequency-specific filtering across brain networks. Beyond insulation, optical modeling indicates that myelin may also act as a waveguide for biophotonic emissions, creating a parallel photonic channel nested within the electrical one, ensuring high-speed coordination across long distances.
 
-### 2.3.1.4 Osteocyte Network (Piezoelectric Lattice)
-The network of osteocytes within the bone matrix forms a systemic piezoelectric lattice.
-* **Mechanisms**: Mechanical loading of the bone induces bioelectric potentials via the piezoelectric effect of collagen and hydroxyapatite.
-* **IvC Role**: This network maintains the "Topological Shield" of the skeletal system, ensuring that structural integrity is monitored through a continuous resonant field.
+### 2.3.1.4 Osteocyte Network (The Piezoelectric Lattice)
+The network of osteocytes within the bone matrix forms a systemic piezoelectric lattice. Mechanical loading of the bone induces bioelectric potentials via the piezoelectric effect of collagen and hydroxyapatite, allowing the skeletal system to monitor its structural integrity through a continuous resonant field. This network maintains the Topological Shield of the skeletal system, ensuring that structural maintenance and repair are guided by the system's overall resonant state.
