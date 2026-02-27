@@ -8,7 +8,7 @@ All notable updates regarding the framework's academic status and repository evo
 - **Note**: This is a common occurrence for cross-disciplinary monographs of this scale (300+ pages). We are awaiting moderator clearance for public announcement.
 
 ### Repository Updates
-- **2026-02-28**: Established the official IvC Documentation Hub (Glossary, Intro, and Abstract).
+- **2026-02-27**: Established the official IvC Documentation Hub (Glossary, Intro, and Abstract).
 - **2026-02-24**: Profile identities linked and community discussion area opened.
 
 ## [Initial Submission] - 2026-02-26
